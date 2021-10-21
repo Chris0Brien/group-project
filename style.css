@@ -40,3 +40,9 @@ main h2 {
 .codys-styles {
     background:rgb(92, 149, 235);
 }
+
+.jon-style {
+    color: rgb(105, 255, 173);
+    background-color: rgb(189, 9, 9);
+    padding: 3px;
+}
